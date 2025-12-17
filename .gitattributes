@@ -1,0 +1,4 @@
+*.vhd  linguist-language=VHDL
+*.vhdl linguist-language=VHDL
+*.vho  linguist-language=VHDL
+*.vhs  linguist-language=VHDL
